@@ -15,5 +15,5 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   function f (){
     console.log("message");
 
-    
+    let f = 10;
   }
