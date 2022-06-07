@@ -14,4 +14,6 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   /* nesto neki  komentar*/
   function f (){
     console.log("message");
+
+    
   }
