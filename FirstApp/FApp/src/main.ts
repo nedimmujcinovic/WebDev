@@ -10,3 +10,8 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
+
+  /* nesto neki  komentar*/
+  function f (){
+    console.log("message");
+  }
